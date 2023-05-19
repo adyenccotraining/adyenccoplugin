@@ -10,7 +10,8 @@
 
 This repo allows you to download the Adyen Terminal integration for SAP Customer Checkout. 
   
-adyenplugin-1.0.7-FP14.jar - Supports SAP Customer Checkout FP14 and FP15.  
+adyenplugin-1.0.8-FP14.jar - Supports SAP Customer Checkout FP14 and FP15.  
+adyenplugin-1.0.8-FP16.jar - Supports SAP Customer Checkout FP16
 
 # Contact
 
